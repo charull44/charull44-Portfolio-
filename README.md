@@ -31,29 +31,29 @@
 
 * Responsive chat interface using React
 * Component-based architecture
-  👉 https://github.com/charull44/YOUR_REPO_LINK
+  👉 [https://github.com/charull44/YOUR_REPO_LINK](https://github.com/charull44/REACT-Chat-UI)
 
 ---
 
 ### 🧮 Python Programs Collection
 
 * Covers loops, functions, file handling
-  👉 https://github.com/charull44/YOUR_REPO_LINK
+  👉 [https://github.com/charull44/YOUR_REPO_LINK](https://github.com/charull44/Python_Training_2026)
 
 ---
 
 ### 📊 DSA Practice
 
 * Daily problem-solving repository
-  👉 https://github.com/charull44/YOUR_REPO_LINK
+  👉[ https://github.com/charull44/YOUR_REPO_LINK](https://github.com/charull44/Charul-B2-30_DSA)
 
 ---
 
 ## 📈 Currently Working On
 
 * 📚 Data Structures & Algorithms
-* ⚛️ Advanced React Projects
-* 🔧 Embedded Systems & Microcontroller Concepts
+* ⚛️ Advanced Projects
+* 🔧 IoT Systems and Microcontroller Concepts
 
 ---
 
