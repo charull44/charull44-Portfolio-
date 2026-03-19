@@ -85,10 +85,10 @@
 ## 🌐 Connect With Me
 
 <p>
-  <a href="[https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/charul-bhanarkar-205172358/)" target="_blank">
+  <a href="(https://www.linkedin.com/in/charul-bhanarkar-205172358/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="[https://github.com/charull44](https://github.com/charull44)" target="_blank">
+  <a href="(https://github.com/charull44)" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
